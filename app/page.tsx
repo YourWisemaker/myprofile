@@ -207,11 +207,11 @@ export default function Home() {
                 className="flex items-center gap-2 text-primary hover:underline transition-all duration-300 hover:scale-105"
               >
                 <Linkedin className="h-5 w-5" />
-                linkedin.com/in/alexjohnson
+                linkedin.com/in/arief-fitranto
               </Link>
               <div className="h-4 w-px bg-border hidden md:block"></div>
               <Link
-                href="https://upwork.com/freelancers/alexjohnson"
+                href="https://www.upwork.com/freelancers/~0175f2d4c7179895f1"
                 className="flex items-center gap-2 text-primary hover:underline transition-all duration-300 hover:scale-105"
               >
                 <svg
@@ -227,7 +227,7 @@ export default function Home() {
                   <path d="M18 7.5C18 9.98528 15.9853 12 13.5 12C11.0147 12 9 9.98528 9 7.5C9 5.01472 11.0147 3 13.5 3C15.9853 3 18 5.01472 18 7.5Z" />
                   <path d="M13.5 12C9 12 5.5 15 5.5 19.5V21H21.5V19.5C21.5 15 18 12 13.5 12Z" />
                 </svg>
-                alexjohnson
+                arieffitranto
               </Link>
             </SlideUp>
             <div className="flex justify-center">

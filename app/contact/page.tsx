@@ -83,7 +83,7 @@ export default function ContactPage() {
         </svg>
       ),
       label: "Upwork",
-      href: "https://upwork.com/freelancers/alexjohnson",
+      href: "https://www.upwork.com/freelancers/~0175f2d4c7179895f1",
     },
   ]
 
