@@ -65,7 +65,7 @@ export default function ContactPage() {
 
   const socialLinks = [
     { icon: <Github className="h-5 w-5" />, label: "GitHub", href: "https://github.com" },
-    { icon: <Linkedin className="h-5 w-5" />, label: "LinkedIn", href: "https://linkedin.com" },
+    { icon: <Linkedin className="h-5 w-5" />, label: "LinkedIn", href: "https://linkedin.com/arief-fitranto" },
     {
       icon: (
         <svg
